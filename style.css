@@ -7,7 +7,8 @@ a {
 
 .main {
     width: 90%;
-    margin: 5vw auto; 
+    height: 95vh;
+    margin: 1vw auto; 
     font-family: sans-serif;
     background-color: rgb(255, 249, 241);
     border-radius: 1.5rem;
@@ -46,29 +47,29 @@ a {
 .left-block {
     display: inline-block;
     width: 30%;
-    vertical-align: top;
-    margin: 12vh 2vw 0 12vw;
+    vertical-align: 11vh;
+    margin: 1vh 2vw 0 12vw;
 }
 
 .left-block .title {
-    font-size: 3rem;
+    font-size: 3.6vw;
     font-weight: normal;
     font-family: 'Abril Fatface', serif;
 }
 
 .left-block p {
-    font-size: 1rem;
+    font-size: 1.2vw;
     line-height: 1.5em;
-    margin-bottom: 3rem;
+    margin-bottom: 7.2vh;
 }
 
 .left-block>.btn {
     display: inline-block;
-    font-size: 1.5rem;
-    padding: 1rem 3rem;
+    font-size: 1.7vw;
+    padding: 2.4vh 3.6vw;
     background-color: rgb(1, 1, 94);
     color: white;
-    border-radius: 3rem;
+    border-radius: 3.6vw;
 }
 
 .right-block {
@@ -76,5 +77,5 @@ a {
 }
 
 .right-block img {
-    width: 40vw;
+    width: 35vw;
 }
